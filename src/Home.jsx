@@ -88,7 +88,7 @@ const Header = () => {
             </div>
           </div>
           <div className="border-t border-amber-700 mt-8 pt-6 text-center text-amber-200">
-            <p>© 2023 Mehndi Artistry. Preserving cultural heritage through art</p>
+            <p>© 2025 Mehndi Artistry. Preserving cultural heritage through art</p>
           </div>
         </div>
       </footer>
