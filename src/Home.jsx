@@ -100,7 +100,7 @@ const Header = () => {
       <div className="bg-amber-50">
         <Header />
         <main className="pt-20">
-          <section className="relative h-screen bg-[url('./images/image1.jpg')] bg-cover bg-center">
+          <section className="relative h-screen bg-[url('/images/image1.jpg')] bg-cover bg-center">
             <div className="absolute inset-0 bg-gradient-to-r from-amber-900/70 to-amber-800/50">
               <div className="container mx-auto px-6 h-full flex items-center">
                 <div className="max-w-2xl text-amber-50 space-y-8">
