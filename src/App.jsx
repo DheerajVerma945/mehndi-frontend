@@ -7,6 +7,9 @@ import Gallery from './Gallery'
 import Design from './Design'
 import Header from './Header'
 import Footer from './Footer'
+import ErrorPage from './Error'
+import PrivacyPolicy from './Privacy'
+import TermsAndConditions from './TC'
 
 const App = () => {
   return (
@@ -18,6 +21,11 @@ const App = () => {
         <Route path="/contact" element={<Contact />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/design/:id" element={<Design />} />
+        <Route path="/privacy" element={<PrivacyPolicy />} />
+        <Route path="/terms" element={<TermsAndConditions />} />
+
+        <Route path="*" element={<ErrorPage />} />
+
       </Routes>
       <Footer/>
     </Router>
