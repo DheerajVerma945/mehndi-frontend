@@ -13,6 +13,7 @@ import TermsAndConditions from './TC'
 
 const App = () => {
   return (
+<div className="nunito-body">
     <Router>
       <Header/>
       <Routes>
@@ -29,6 +30,7 @@ const App = () => {
       </Routes>
       <Footer/>
     </Router>
+</div>
   )
 }
 
