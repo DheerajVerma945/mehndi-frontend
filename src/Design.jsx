@@ -67,7 +67,7 @@ const Design = () => {
             <ClockIcon className="text-amber-700 w-6 h-6 mr-4" />
             <div>
               <p className="text-sm text-amber-600">Application Time</p>
-              <p className="text-amber-900 font-medium">{design.time}</p>
+              <p className="text-amber-900 font-medium">{design.time} minutes</p>
             </div>
           </div>
 
