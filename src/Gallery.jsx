@@ -38,7 +38,7 @@ const MehndiGallery = () => {
       </section>
       <div className="flex justify-center mb-10">
         <a
-          href="https://wa.me/919797818400?text=I%20want%20a%20custom%20design"
+          href="https://wa.me/917417419381?text=I%20want%20a%20custom%20design"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-3 rounded-full shadow-md transition duration-300"
