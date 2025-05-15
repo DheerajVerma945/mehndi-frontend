@@ -79,7 +79,7 @@ const Design = () => {
 
         <div className="flex justify-center">
           <a
-            href={`https://wa.me/917417419381?text=Hey%20I%20want%20to%20book%20${encodeURIComponent(
+            href={`https://wa.me/917668570993?text=Hey,%20I%20want%20to%20book%20${encodeURIComponent(
               design.title
             )}%20design`}
             target="_blank"
