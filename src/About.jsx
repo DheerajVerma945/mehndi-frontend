@@ -45,7 +45,7 @@ const About = () => {
             <h2 className="text-3xl font-semibold text-amber-800 mb-4">Get In Touch</h2>
             <div className="flex items-center justify-center p-6 bg-amber-100 rounded-lg shadow-md">
               <PhoneIcon className="w-8 h-8 text-amber-700 mr-4" />
-              <p className="text-lg text-amber-700">Call us at: +91 9797818400</p>
+              <p className="text-lg text-amber-700">Call us at: +91 7668XXXXXX</p>
             </div>
           </div>
         </div>
