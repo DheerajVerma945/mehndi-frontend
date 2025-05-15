@@ -61,7 +61,7 @@ const MehndiGallery = () => {
 
       <div className="flex justify-center mb-12">
         <a
-          href="https://wa.me/917668570993?text=I%20want%20a%20custom%20design"
+          href="https://wa.me/917417419381?text=I%20want%20a%20custom%20design"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 bg-green-700 hover:bg-green-800 text-white text-lg px-6 py-3 rounded-full shadow transition duration-300"
